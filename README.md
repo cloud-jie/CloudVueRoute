@@ -1,4 +1,4 @@
-因为这个脚本，很高兴看到 [VueCrack](https://github.com/Ad1euDa1e/VueCrack) [VueTools](https://github.com/lmfcode/VueTools) 等项目以及许多同行开始关注 vue 框架的渗透测试。
+因为这个脚本，很高兴看到 [VueCrack](https://github.com/Ad1euDa1e/VueCrack) [VueTools](https://github.com/lmfcode/VueTools) [CloudVueRoute-Chrome](https://github.com/HoldOnToYourHeart/CloudVueRoute-Chrome) 等项目以及许多同行开始关注 vue 框架的渗透测试。
 
 接下来公布一些我发现的新思路：
 
